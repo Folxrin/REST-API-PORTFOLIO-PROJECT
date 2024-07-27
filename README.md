@@ -1,3 +1,5 @@
 # REST-API-PORTFOLIO-PROJECT
 
-clone
+Run "npm install" to get the node module file 
+Run "npm install react-icons"
+Run "npm install ion-icons"
